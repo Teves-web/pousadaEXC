@@ -150,3 +150,10 @@ Built with scalability in mind for future CMS integrations, booking systems, and
 
 João Teves Software Engineer
 Focused on modern digital experiences, premium interfaces, and high-performance frontend development.
+
+<img width="1342" height="588" alt="pousada" src="https://github.com/user-attachments/assets/7a0ddaa5-1ac1-42f3-86ea-72bf37ad31bb" />
+
+
+
+
+
